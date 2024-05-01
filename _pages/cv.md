@@ -7,6 +7,15 @@ redirect_from:
   - /resume
 ---
 
+<!-- 
+<div class="wordwrap">You can also check <a href="{{http://Zzzzzhijian.github.io/files/CV_Zhijian_2024.pdf}}">my CV</a> here.</div>
+-->
+
+<!-- This is a comment in Markdown and will not be displayed in the rendered output -->
+
+<div class="wordwrap">You can also check <a href="http://Zzzzzhijian.github.io/files/CV_Zhijian_2024.pdf" target="_blank">my CV</a> here.</div>
+
+
 {% include base_path %}
 
 Education

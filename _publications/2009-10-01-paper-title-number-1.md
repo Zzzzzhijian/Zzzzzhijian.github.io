@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-12
-venue: # 'Journal 1'
+venue: 'Journal 1' # 'Journal 1'
 paperurl: 'http://Zzzzzhijian.github.io/files/2017graphene.pdf'
 citation: 'Xie, Y., Hu, Z. J., Ding, W. H., Lü, X. L., & Xie, H. (2017). One-dimensional method of investigating the localized states in armchair graphene-like nanoribbons with defects. Chinese Physics B, 26(12), 127310.'
 ---
