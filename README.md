@@ -5,6 +5,8 @@ A Github Pages template for academic websites. This was forked from [academicpag
 
 Academic Pages is a Github Pages template for academic websites.
 
+I'm still exploring this template too. Feel free to contact me if you got any problems or questions and we can discuss them together.
+
 
 # Getting Started(Simplified Version)
 
