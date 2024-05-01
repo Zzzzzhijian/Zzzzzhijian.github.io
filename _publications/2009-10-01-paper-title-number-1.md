@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "One-dimensional method of investigating the localized states in armchair graphene-like nanoribbons with defects"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2017-12
+venue: # 'Journal 1'
+paperurl: 'http://Zzzzzhijian.github.io/files/2017graphene.pdf'
+citation: 'Xie, Y., Hu, Z. J., Ding, W. H., Lü, X. L., & Xie, H. (2017). One-dimensional method of investigating the localized states in armchair graphene-like nanoribbons with defects. Chinese Physics B, 26(12), 127310.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper we propose a type of new analytical method to investigate the localized states in the armchair graphene-like nanoribbons. The method is based on the tight-binding model and with a standing wave assumption. The system of armchair graphene-like nanoribbons includes the armchair supercells with arbitrary elongation-type line defects and the semi-infinite nanoribbons. With this method, we analyze many interesting localized states near the line defects in the graphene and boron-nitride nanoribbons. We also derive the analytical expressions and the criteria for the localized states in the semi-infinite nanoribbons.
