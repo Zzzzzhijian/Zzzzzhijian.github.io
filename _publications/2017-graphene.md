@@ -2,7 +2,7 @@
 title: "One-dimensional method of investigating the localized states in armchair graphene-like nanoribbons with defects"
 collection: publications
 permalink: /publication/2017-graphene
-# excerpt: 'In this paper we propose a type of new analytical method to investigate the localized states in the armchair graphene-like nanoribbons. The method is based on the tight-binding model and with a standing wave assumption. The system of armchair graphene-like nanoribbons includes the armchair supercells with arbitrary elongation-type line defects and the semi-infinite nanoribbons. With this method, we analyze many interesting localized states near the line defects in the graphene and boron-nitride nanoribbons. We also derive the analytical expressions and the criteria for the localized states in the semi-infinite nanoribbons.
+excerpt: 'In this paper we propose a type of new analytical method to investigate the localized states in the armchair graphene-like nanoribbons. The method is based on the tight-binding model and with a standing wave assumption. The system of armchair graphene-like nanoribbons includes the armchair supercells with arbitrary elongation-type line defects and the semi-infinite nanoribbons. With this method, we analyze many interesting localized states near the line defects in the graphene and boron-nitride nanoribbons. We also derive the analytical expressions and the criteria for the localized states in the semi-infinite nanoribbons.
 '
 date: 2017-12-17
 venue: 'Chinese Physics B'
