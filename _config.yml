@@ -21,7 +21,7 @@ repository               : "Zzzzzhijian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AvatarTreeOfLife.jpg" # "profile.png"
+  avatar           : "profile.png"
   name             : "Interesting Sidebar" # your sidebar name
   pronouns         : "he/him" # example: "she/her"  
   bio              : "researcher in evolutionary dynamics and complex system" # Short biography for the left-hand sidebar
