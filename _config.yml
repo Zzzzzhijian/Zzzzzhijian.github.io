@@ -22,10 +22,10 @@ repository               : "Zzzzzhijian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Interesting Sidebar" # your sidebar name
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "researcher in evolutionary dynamics and complex system" # Short biography for the left-hand sidebar
-  location         : "Earth"
+  name             : "Zhijian Hu" # "Interesting Sidebar" # your sidebar name
+  pronouns         : # "he/him" # example: "she/her"  
+  bio              : "U-M Biophysics PhD student" # "researcher in evolutionary dynamics and complex system" # Short biography for the left-hand sidebar
+  location         : "Ann Arbor, MI" # "Earth"
   employer         : "University of Michigan"
   uri              : # URL
   email            : "zhijianh@umich.edu" 
