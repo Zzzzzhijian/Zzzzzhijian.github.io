@@ -26,7 +26,7 @@ author:
   pronouns         : # "he/him" # example: "she/her"  
   bio              : "U-M Biophysics PhD student" # "researcher in evolutionary dynamics and complex system" # Short biography for the left-hand sidebar
   location         : "Ann Arbor, MI" # "Earth"
-  employer         : "University of Michigan"
+  employer         : # "University of Michigan"
   uri              : # URL
   email            : "zhijianh@umich.edu" 
 
