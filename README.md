@@ -18,7 +18,7 @@ I'm still exploring this template too. Feel free to contact me if you got any pr
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/. Or more detailed instructios from this personal blog https://jayrobwilliams.com/posts/2020/06/academic-website/.
+See more info at https://academicpages.github.io/. Or more detailed instructios from this personal blog https://jayrobwilliams.com/posts/2020/06/academic-website/. Fun fact: he also used the template from Academic Pages to build his blog.
 
 ## Some tips
 
