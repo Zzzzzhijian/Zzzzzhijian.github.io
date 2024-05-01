@@ -12,9 +12,11 @@ author_profile: true
 {% include base_path %}
 
 
-# Preprints
+## Preprints
 
-# Journal Papers
+
+
+## Journal Papers
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
