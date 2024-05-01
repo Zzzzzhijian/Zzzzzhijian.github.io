@@ -3,7 +3,7 @@ title: "One-dimensional method of investigating the localized states in armchair
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017-12
+date: 2009-10-01
 venue: 'Journal 1' # 'Journal 1'
 paperurl: 'http://Zzzzzhijian.github.io/files/2017graphene.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
