@@ -36,10 +36,10 @@
       {% endif %}
     </h2>
 
-    <!-- Render an image under the title if the image exists in the post's front matter -->
+    <!-- Render an image under the title if the image exists in the post's front matter, and adjust its size -->
     {% if post.image %}
     <div class="archive__item-image">
-        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="max-width: 100%; height: auto;">
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="width: auto; max-width: 100%; height: auto;">
     </div>
     {% endif %}
 
