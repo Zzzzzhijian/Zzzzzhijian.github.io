@@ -39,7 +39,7 @@
     <!-- Render an image under the title if the image exists in the post's front matter, and adjust its size -->
     {% if post.image %}
     <div class="archive__item-image">
-        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="max-width: 100%; height: auto; max-height: 500px; min-width: 150px;">
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="max-width: 100%; height: auto; max-height: 300px; min-width: 120px;">  <!--Pixel used: (500px,150px)-->
     </div>
     {% endif %}
     
