@@ -16,15 +16,15 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <!-- Check if it's a grid layout and if there's a teaser image -->
     {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
+    <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-          alt="">
-      </div>
+          alt="Teaser image for {{ post.title | escape }}">
+    </div>
     {% endif %}
 
     <!-- Post title with permalink handling -->
@@ -36,12 +36,13 @@
       {% endif %}
     </h2>
 
-    <!--add and render an image under the title, if the image exists-->
+    <!-- Render an image under the title if the image exists in the post's front matter -->
     {% if post.image %}
     <div class="archive__item-image">
-      <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="max-width: 100%; height: auto;">
+        <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title | escape }}" style="max-width: 100%; height: auto;">
     </div>
     {% endif %}
+
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
