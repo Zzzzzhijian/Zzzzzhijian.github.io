@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zhijian. I am working toward a PhD in Biophysics, at the University of Michigan, Ann Arbor. I started my PhD program in Fall of 2019, after graduating from Chongqing university, China with a degree in physics focused on spatially collective behavior like spin electronics and cancer cell invasion. I am also working towards a master in applied math and a graduate certificate in Complex Systems.
+Hi! My name is Zhijian. I am working toward a PhD in Biophysics, at the University of Michigan, Ann Arbor. I started my PhD program in Fall of 2019, after graduating from Chongqing University, China with a degree in physics focused on spatially collective behavior like spin electronics and cancer cell invasion. I am also working towards a master in applied math and a graduate certificate in Complex Systems.
 
  My research interests now are revealing universal laws and interesting behaviors in evolutionary dynamics and complex systems under a spatially-extended environment, with tools from statistical physics, dynamical system, and stochastic process. I'm also interested in clinical-related applications such as how our findings can help us better understand antibiotic resistance and cancer metastasis, both experimentally and theoretically. I'm currently supervised by Professor [Kevin Wood](https://lsa.umich.edu/biophysics/people/core-faculty/kbwood.html), on investigating how bacteria grows and evolves in a spatially drug heterogeneous environment.
 
